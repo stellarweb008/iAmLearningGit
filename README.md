@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# iAmLearningGit
-=======
-# I am learning Git
->>>>>>> master
+# I Am Learning Git
